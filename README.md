@@ -10,3 +10,5 @@ Contributors:</br>
 - [Anuj chaure](github.com/anuj-c)
 - my name is [jamma sathwik](https://github.com/Jammasanju)
 - [Pratyush Ranjan Swain](https://github.com/Pratyush-ran)
+- [Ankit Anand](https://github.com/Ankit-netizens)
+- Akarsh Rana 
