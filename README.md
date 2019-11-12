@@ -19,4 +19,6 @@ Contributors:</br>
 - [Rahul Pathak](https://github.com/rahulmpathak1)
 - [Divyansh Agrawal](https://github.com/divyansh67)
 - [Rahul agarwal](https://github.com/agarwalrahul-22)
+- [ashutosh kumar](https://github.com/ashu-ak)
+- [pranav](https://github.com/N-Pranav-Subhraveti)
 - [Puneet Kumar Singh](https://github.com/pks18)
