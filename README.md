@@ -15,3 +15,4 @@ Contributors:</br>
 - [Ankit Anand](https://github.com/Ankit-netizens)
 - Akarsh Rana
 - [Sameer Choudhary](https://github.com/csameeerz)
+- [Rahul Pathak](https://github.com/rahulmpathak1)
