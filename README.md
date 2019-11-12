@@ -1,6 +1,8 @@
 # My First PR1
 This is a first PR repo used for teaching people about PRs.
 
+Contributors:
+=======
 ## Presentation Link
 [Click Here](https://docs.google.com/presentation/d/1daPXYSP6chrxg8vB60FNcOMb_7_YErsCds7gT3OlwwI/edit?usp=sharing)</br>
 
@@ -11,4 +13,5 @@ Contributors:</br>
 - my name is [jamma sathwik](https://github.com/Jammasanju)
 - [Pratyush Ranjan Swain](https://github.com/Pratyush-ran)
 - [Ankit Anand](https://github.com/Ankit-netizens)
-- Akarsh Rana 
+- Akarsh Rana
+- [Sameer Choudhary](https://github.com/csameeerz)
